@@ -13,12 +13,12 @@ disqus_username: Lapio
 
 # Social Media
 # Remove the item if you don't need it
-github_username: https://github.com/Team-Lapio
-facebook_username: https://fb.com/LapioTeam
-twitter_username: https://fb.com/LapioTeam
-instagram_username: https://fb.com/LapioTeam
-linkedin_username: https://fb.com/LapioTeam
-medium_username: https://fb.com/LapioTeam
+github_username: Team-Lapio
+facebook_username: LapioTeam
+# twitter_username: https://fb.com/LapioTeam
+# instagram_username: https://fb.com/LapioTeam
+# linkedin_username: https://fb.com/LapioTeam
+# medium_username: https://fb.com/LapioTeam
 
 # Build settings
 markdown: kramdown
