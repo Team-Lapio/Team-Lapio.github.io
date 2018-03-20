@@ -2,7 +2,7 @@
 layout: post
 title: "History of the Lapio"
 date: 2018-03-20 20:28:10
-image: 'https://cdn.discordapp.com/attachments/404906818377351171/425616706568847380/20180320_202828.jpg'
+image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1504809708/django_g7djdj.jpg'
 description: Lapio 동아리의 역사
 category: 'Misc'
 tags:
