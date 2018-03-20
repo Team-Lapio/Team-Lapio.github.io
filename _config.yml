@@ -1,24 +1,24 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: Lapio Team | The DSM Hacking Team
+email: teamlapio@gmail.com
+description: The Lapio is hacking & security team in DSM.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.lapio.kr" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Lapio
+user_description: The Lapio is hacking & security team in DSM.
+disqus_username: Lapio
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: https://github.com/Team-Lapio
+facebook_username: https://fb.com/LapioTeam
+twitter_username: https://fb.com/LapioTeam
+instagram_username: https://fb.com/LapioTeam
+linkedin_username: https://fb.com/LapioTeam
+medium_username: https://fb.com/LapioTeam
 
 # Build settings
 markdown: kramdown
