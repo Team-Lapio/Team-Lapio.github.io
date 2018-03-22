@@ -13,6 +13,8 @@ introduction: Lapio 동아리의 역사
 ---
 `Lapio` 는 2017년 6월 30일에 처음 계획되었다. (이 때가 생일이다 헤헤)
 
+동아리부장인SHGroup은 학교에서 제일가는 미남으로 잘 알려져있다.
+
 로고는 다음과 같다.
 
 ![Logo](/assets/img/Lapio.png)
